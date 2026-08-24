@@ -9,3 +9,13 @@ star-randsrv.bsg.brave.com
 semanticlocation-pa.googleapis.com
 footprints-pa.googleapis.com
 nearbypresence-pa.googleapis.com
+https.web.diagnostic.networking.aws.dev
+cloudfront.web.us-east-1.prod.diagnostic.networking.aws.dev
+firebaselogging-pa.googleapis.com
+geoip.rootlake.io
+api.rootlake.io
+configs.sdk.crowd-umlaut.com
+webapi.sdk.crowd-umlaut.com
+api.wavebrook.com
+api.mwwebwork.com
+0.datadog.pool.ntp.org
