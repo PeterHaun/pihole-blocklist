@@ -1,0 +1,11 @@
+incoming-telemetry.thunderbird.net
+crashlyticsreports-pa.googleapis.com
+v6.web.diagnostic.networking.aws.dev
+web.diagnostic.networking.aws.dev
+ktpx-eu-south-2.amazon.com
+unagi-eu.amazon.com
+collector.bsg.brave.com
+star-randsrv.bsg.brave.com
+semanticlocation-pa.googleapis.com
+footprints-pa.googleapis.com
+nearbypresence-pa.googleapis.com
