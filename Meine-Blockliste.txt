@@ -19,3 +19,4 @@ webapi.sdk.crowd-umlaut.com
 api.wavebrook.com
 api.mwwebwork.com
 0.datadog.pool.ntp.org
+zpr.io
