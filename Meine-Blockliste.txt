@@ -1,22 +1,33 @@
-incoming-telemetry.thunderbird.net
+# 0.datadog.pool.ntp.org
+# nearbypresence-pa.googleapis.com
+# semanticlocation-pa.googleapis.com
+# zpr.io
+aga.web.eu-west-1.prod.diagnostic.networking.aws.dev
+api.mwwebwork.com
+api.rootlake.io
+api.wavebrook.com
+arc.msn.com
+cloudfront.web.us-east-1.prod.diagnostic.networking.aws.dev
+collector.bsg.brave.com
+configs.sdk.crowd-umlaut.com
 crashlyticsreports-pa.googleapis.com
+eu-mobile.events.data.microsoft.com
+eu-v20.events.data.microsoft.com
+federatedcompute-pa.googleapis.com
+firebaselogging-pa.googleapis.com
+footprints-pa.googleapis.com
+geoip.rootlake.io
+https.v6.web.diagnostic.networking.aws.dev
+https.web.diagnostic.networking.aws.dev
+in.appcenter.ms
+incoming-telemetry.thunderbird.net
+ktpx-eu-south-2.amazon.com
+mobile.events.data.microsoft.com
+settings-win.data.microsoft.com
+star-randsrv.bsg.brave.com
+unagi-eu.amazon.com
+v10.events.data.microsoft.com
+v6.cloudfront.web.us-east-1.prod.diagnostic.networking.aws.dev
 v6.web.diagnostic.networking.aws.dev
 web.diagnostic.networking.aws.dev
-ktpx-eu-south-2.amazon.com
-unagi-eu.amazon.com
-collector.bsg.brave.com
-star-randsrv.bsg.brave.com
-# semanticlocation-pa.googleapis.com
-# footprints-pa.googleapis.com
-# nearbypresence-pa.googleapis.com
-https.web.diagnostic.networking.aws.dev
-cloudfront.web.us-east-1.prod.diagnostic.networking.aws.dev
-firebaselogging-pa.googleapis.com
-geoip.rootlake.io
-api.rootlake.io
-configs.sdk.crowd-umlaut.com
 webapi.sdk.crowd-umlaut.com
-api.wavebrook.com
-api.mwwebwork.com
-# 0.datadog.pool.ntp.org
-# zpr.io
