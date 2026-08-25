@@ -6,9 +6,9 @@ ktpx-eu-south-2.amazon.com
 unagi-eu.amazon.com
 collector.bsg.brave.com
 star-randsrv.bsg.brave.com
-semanticlocation-pa.googleapis.com
-footprints-pa.googleapis.com
-nearbypresence-pa.googleapis.com
+# semanticlocation-pa.googleapis.com
+# footprints-pa.googleapis.com
+# nearbypresence-pa.googleapis.com
 https.web.diagnostic.networking.aws.dev
 cloudfront.web.us-east-1.prod.diagnostic.networking.aws.dev
 firebaselogging-pa.googleapis.com
@@ -18,5 +18,5 @@ configs.sdk.crowd-umlaut.com
 webapi.sdk.crowd-umlaut.com
 api.wavebrook.com
 api.mwwebwork.com
-0.datadog.pool.ntp.org
-zpr.io
+# 0.datadog.pool.ntp.org
+# zpr.io
