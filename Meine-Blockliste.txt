@@ -13,6 +13,7 @@ configs.sdk.crowd-umlaut.com
 crashlyticsreports-pa.googleapis.com
 eu-mobile.events.data.microsoft.com
 eu-v20.events.data.microsoft.com
+euw1-device-telemetry-gw.iot.i.tplinknbu.com
 federatedcompute-pa.googleapis.com
 firebaselogging-pa.googleapis.com
 footprints-pa.googleapis.com
