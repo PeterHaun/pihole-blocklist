@@ -21,7 +21,7 @@ https.v6.web.diagnostic.networking.aws.dev
 https.web.diagnostic.networking.aws.dev
 in.appcenter.ms
 incoming-telemetry.thunderbird.net
-ktpx-eu-south-2.amazon.com
+# ktpx-eu-south-2.amazon.com
 mobile.events.data.microsoft.com
 settings-win.data.microsoft.com
 star-randsrv.bsg.brave.com
